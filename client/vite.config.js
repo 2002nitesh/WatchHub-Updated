@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/api': 'watch-hub-d3nhsls4f-nitesh-kumar-kumawats-projects.vercel.app
+      '/api': 'https://watch-hub-d3nhsls4f-nitesh-kumar-kumawats-projects.vercel.app
 /api/v1'
     }
   }
